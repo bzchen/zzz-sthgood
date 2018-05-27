@@ -1,0 +1,4 @@
+
+update time:
+  $ sudo ntpdate 0.ubuntu.pool.ntp.org
+
